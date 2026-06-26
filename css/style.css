@@ -94,6 +94,7 @@ header{
 }
 
 .Block{
+    background: linear-gradient(135deg, rgb(34, 44, 104) 30%, rgb(90, 34, 134) 100%);
     background-color: rgb(30, 38, 87);
     border-radius: 10px;
     padding: 5px;
@@ -358,6 +359,11 @@ header{
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
+
+.main{
+    display:flex;
+}
+
 
 /* ========================================================== */
 /*   МЕДИА-ЗАПРОС ДЛЯ СМАРТФОНОВ (ЭКРАНЫ МЕНЕЕ 768px)          */
