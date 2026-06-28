@@ -374,6 +374,11 @@ header{
         padding-bottom: 20px;
     }
 
+
+    .main{
+        flex-direction: column;
+        align-items: center;
+    }
     .Portfolio {
         height: auto;
         padding: 40px 10px;
