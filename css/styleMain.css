@@ -84,7 +84,7 @@ header{
 .other_sites{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     width: 80%;
     height: 80vh;
     padding-top: 15px;
